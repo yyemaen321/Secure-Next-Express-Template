@@ -1,0 +1,29 @@
+{
+  "name": "nextjs-express-template",
+  "version": "1.0.0",
+  "description": "Full-stack template with Next.js frontend and Express backend",
+  "main": "server.js",
+  "scripts": {
+    "client:install": "cd client && npm install",
+    "server:install": "cd server && npm install",
+    "install:all": "npm install && npm run client:install && npm run server:install",
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "client:build": "cd client && npm run build",
+    "start": "concurrently \"cd server && npm run start\" \"cd client && npm run start\"",
+    "build": "npm run client:build"
+  },
+  "keywords": [
+    "nextjs",
+    "express",
+    "react",
+    "typescript",
+    "template"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
